@@ -19,8 +19,9 @@ Puedes seguirnos en nuestras distintas redes sociales para enterarte de todas nu
 - Meetup: [GDG Android Bolivia](https://www.meetup.com/es-ES/GDGAndroidBolivia/) 
 - Facebook: [GDG Android Bolivia](https://www.facebook.com/GDGAndroidBolivia)
 - Página web: [GDG Android Bolivia | Blog](https://gdg.androidbolivia.com/)
+
 ### Autor
-GDG Android Bolivia
+[GDG Android Bolivia](https://github.com/GDGAndroidBolivia)
 
 ### Licencia
-Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENCIA]() para obtener más información.
+Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENCIA](https://github.com/GDGAndroidBolivia/june-2019-firebase-meetup/blob/master/LICENSE.md) para obtener más información.
